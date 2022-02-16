@@ -1,2 +1,2 @@
-# test-learning
-testowy do nauki
+# drukarnie i skład
+próbka
